@@ -12,7 +12,3 @@ Website informatif yang didedikasikan untuk memperkenalkan keindahan alam, buday
 
 Website ini menampilkan 16 destinasi wisata pilihan, mulai dari wisata religi (Masjid Sultan Riau, Vihara Dharma Sasana), wisata alam (Pantai Trikora, Danau Biru Kijang, Gurun Pasir Busung), hingga wisata modern (Treasure Bay Bintan, Trans Studio Garden).
 
-## ✨ Fitur Utama
-
-### 🎯 Navigasi & Konten
-- 
